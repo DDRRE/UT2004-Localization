@@ -5,7 +5,7 @@ Preferences=(Caption="Joystick",Parent="Opzioni avanzate",Class=WinDrv.WindowsCl
 
 [Errors]
 Failed3D="Inizializzazione hardware 3D fallita "
-DDrawMode="DirectDraw non Ë riuscito ad attivare la modalit‡ video richiesta"
+DDrawMode="DirectDraw non √® riuscito ad attivare la modalit√† video richiesta"
 
 [General]
 ViewPersp="Mappa prospettica"
