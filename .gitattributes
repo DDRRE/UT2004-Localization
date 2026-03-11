@@ -1,2 +1,2 @@
 # Auto detect text files and perform LF normalization
-* text working-tree-encoding=utf-8-bom diff=text eol=crlf
+* text=auto
