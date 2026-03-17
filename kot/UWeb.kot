@@ -1,6 +1,0 @@
-﻿[Public]
-Preferences=(Caption="웹서버",Parent="네트워킹",Class=UWeb.WebServer)
-
-[WebResponse]
-CharSet="iso-8859-1"
-

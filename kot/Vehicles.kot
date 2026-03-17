@@ -1,6 +1,0 @@
-﻿[BulldogMessage]
-GetInMessage="탑승을 위해 [사용]을 누릅니다."
-GetOutMessage="하차를 위해 [사용]을 누릅니다."
-TooManyCarsMessage="차량이 너무 많습니다!"
-FlipCarMessage="전복된 차량을 원상태로 돌려놓으려면 [사용]을 누릅니다."
-
